@@ -4,7 +4,7 @@ Paperclip Demo
 #### On Heroku: [Paperclip Demo](https://salty-island-38996.herokuapp.com/)
 
 
-###### This is a simple paperclip with amazon s3 project aimed at improving my personal understanding of the process.
+##### This is a simple paperclip with amazon s3 project aimed at improving my personal understanding of the process.
 
 About
 -----
@@ -34,3 +34,4 @@ Next version:
 - Full testing suite.
 - Stub external http requests when testing.
 - CSS styling and improved html.
+- Set up CI.
